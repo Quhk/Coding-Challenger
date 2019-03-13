@@ -1,0 +1,23 @@
+{
+  "name": "codingchallenger",
+  "version": "1.0.0",
+  "description": "sends a daily coding challeng to your server",
+  "main": "start.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quhk/Coding-Challenger.git"
+  },
+  "author": "EyZe Astro#4768",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Quhk/Coding-Challenger/issues"
+  },
+  "homepage": "https://github.com/Quhk/Coding-Challenger#readme"
+}
